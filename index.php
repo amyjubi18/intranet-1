@@ -1,3 +1,4 @@
 <?php
-include("procesos/inicio.php");
+session_start();
+include("inicio.php");
 ?>
